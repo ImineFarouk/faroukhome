@@ -5,7 +5,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working on personal projects**
+- 🏢 I'm currently working on personal projects
 - ⚙️ I use daily: `.java`, `.dart`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Flutter Community**
 - 💬 Ping me about **java**, **flutter**, **development**, **constraint programming**, **design**, **branding**, **design thinking**
