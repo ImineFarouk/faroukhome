@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Java Developer living in Oran, Algeria.
+#### I'm a Software Developer living in Oran, Algeria.
 
 
 ##### BIO
