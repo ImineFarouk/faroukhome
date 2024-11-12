@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I am farouk 👋
 
 #### I'm a Software Developer living in Oran, Algeria.
 
